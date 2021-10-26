@@ -16,6 +16,6 @@
 
 .button.is-secondary {
 background: unset;
-color: var(--white);
+color:var(--lilac) ;
 border: 2px solid var(--lilac);
 }
