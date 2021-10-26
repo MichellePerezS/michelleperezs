@@ -1,0 +1,42 @@
+@import "./button.css";
+@import "./header.css";
+@import "./button-icon.css";
+@import "./hero.css";
+@import "./wrapper.css";
+@import "./menu.css";
+@import "./testimony.css";
+@import "./social.css";
+@import "./footer.css";
+@import "./about-me.css";
+@import "./projects.css";
+
+
+
+:root {
+    --fontBase: 'Poppins', sans-serif;
+    --headline1:bold 95px/153.71px var(--fontBase);
+    --headline2:bold 59px/95px var(--fontBase);
+    --headline3:bold 48px/77px var(--fontBase);
+    --headline4:bold 34px/55px var(--fontBase);
+    --headline5:bold 24px/38px var(--fontBase);
+    --body1:16px/25px var(--fontBase);
+    --body2:14px/22px var(--fontBase);
+    --button: bold 14px/22px var(--fontBase);
+    --caption: 12px/19px var(--fontBase);
+    --blue: #1f3159 ;
+    --pink: #d888b8 ;
+    --lilac: #a460a7 ;
+    --purple: #684d81;
+    --white: white ;
+    
+}
+
+body{
+    background: rgb(31,49,89);
+    background: linear-gradient(10deg, rgba(58,92,166,1) 32%, rgba(31,49,89,1) 56%);
+    min-block-size: 100vh;
+    font: var(--body1);
+    color:var(--white);
+    margin: 0;
+
+}
