@@ -1,7 +1,7 @@
 # Hi, I'm Michelle Pérez
 
 **Software Developer | ReactJS | Web Development | Data Enthusiast**  
-I'm a Junior Software Developer specializing in **ReactJS** and web development.  
+I'm Software Developer specializing in **ReactJS** and web development.  
 Passionate about creating interactive, user-friendly applications and exploring data science.  
 Always eager to learn and work with new technologies.
 
