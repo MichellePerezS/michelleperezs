@@ -5,7 +5,7 @@ Manresa (Barcelona) · Último año de Ingeniería Informática (UNIR, graduaci�
 
 Construyo APIs, aplicaciones web y herramientas de datos, y enseño programación desde 2021. Me gusta entender cómo funcionan las cosas y saber explicarlas. Me interesa especialmente donde se cruzan el software, los datos y la salud.
 
-📌 Abierta a puestos a jornada completa y proyectos freelance (presencial, híbrido o remoto).
+ Abierta a puestos a jornada completa y proyectos freelance (presencial, híbrido o remoto).
 
 ---
 
@@ -36,7 +36,7 @@ Web corporativa y blog con contenido en Markdown en **Next.js**, a partir de dis
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 **Backend:** Python · FastAPI · NestJS · Node.js · REST
 **Datos:** PostgreSQL · SQL · SQLAlchemy · TypeORM · Pandas · Jupyter
